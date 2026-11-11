@@ -1,0 +1,11 @@
+,data_type,missing_count,missing_percent,unique_values
+total_bedrooms,float64,207,1.0,1923
+longitude,float64,0,0.0,844
+latitude,float64,0,0.0,862
+housing_median_age,float64,0,0.0,52
+total_rooms,float64,0,0.0,5926
+population,float64,0,0.0,3888
+households,float64,0,0.0,1815
+median_income,float64,0,0.0,12928
+median_house_value,float64,0,0.0,3842
+ocean_proximity,str,0,0.0,5
